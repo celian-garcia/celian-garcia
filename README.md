@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Celian Garcia's github stats](https://github-readme-stats.vercel.app/api?username=celian-garcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+![metrics](./github-metrics.svg)
 
 <!--
 **celian-garcia/celian-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
